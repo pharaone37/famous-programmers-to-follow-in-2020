@@ -769,6 +769,14 @@ Jade Raymond is a video game producer and executive in charge of Stadia Games an
 
 ---
 
+### Allie K. Miller
+
+Allie Miller is the US Head of AI Business Development for Startups and Venture Capital at Amazon, advancing the greatest AI companies in the world. Previously, Allie was the youngest-ever woman to build an artificial intelligence product at IBM — spearheading large-scale product development across computer vision, conversation, data, and regulation. She created eight guidebooks to educate businesses on how to build successful AI projects.
+
+[Twitter](https://twitter.com/alliekmiller) | [LinkedIn](https://www.linkedin.com/in/alliekmiller/) | [Instagram](https://www.instagram.com/alliekmiller/) | [Medium](https://medium.com/@alliekmiller)
+
+---
+
 ### Brad Traversy
 
 Brad Traversy is a developer and a teacher. His company Traversy Media runs a successful web development YouTube channel with tutorials covering frontend and backend technologies.
